@@ -22,5 +22,5 @@ dict_12class = {0:'Chat',1:'Email',2:'File',3:'P2p',4:'Streaming',5:'Voip',6:'Vp
 ``https://github.com/mydre/wang-wei-s-research``
 
 博客地址：
-[link](https://blog.csdn.net/qq_45125356/article/details/126956497?spm=1001.2014.3001.5501)
+[烟玉蓝田的博客-加密流量分类torch实践1：1D-CNN模型训练与测试](https://blog.csdn.net/qq_45125356/article/details/126956497?spm=1001.2014.3001.5501)
 
