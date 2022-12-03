@@ -19,7 +19,7 @@ dict_12class = {0:'Chat',1:'Email',2:'File',3:'P2p',4:'Streaming',5:'Voip',6:'Vp
 > `1d_cnn/cnn_1d_tensorflow`是原文代码，这里并没有调试，供参考
 
 原文代码：
-``https://github.com/mydre/wang-wei-s-research``
+[https://github.com/mydre/wang-wei-s-research](https://github.com/mydre/wang-wei-s-research)
 
 博客地址：
 [烟玉蓝田的博客-加密流量分类torch实践1：1D-CNN模型训练与测试](https://blog.csdn.net/qq_45125356/article/details/126956497?spm=1001.2014.3001.5501)
